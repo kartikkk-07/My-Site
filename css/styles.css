@@ -42,6 +42,28 @@ a {
     text-decoration: none;
 }
 
+.images-row img {
+    height: 200px;
+    width: 200px;
+    padding: 0px 10px 0px 10px;
+}
+
+.project {
+    color: #11999E;
+    justify-content: center;
+
+}
+
+.project img {
+    height: 200px;
+    width: 350px;
+    border: 1px solid black;
+}
+
+.project h3:hover{
+    color: #0c6b6e;
+}
+
 a:hover{
     color: #EAF6F6;
 }
